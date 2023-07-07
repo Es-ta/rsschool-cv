@@ -24,3 +24,6 @@ a\*b
 
 ####_Education_:
 Mogilev State University of Food
+
+####_English_:
+primary
