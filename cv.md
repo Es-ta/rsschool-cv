@@ -8,6 +8,7 @@ _Elena Sakuta_
 ####_Contacts_:
 tel: 375 25 963 52 06;
 email: e.s-ta@mail.ru
+discord:елена#7204
 
 ####_Personal information_:
 i don't stand still, tray to develop
