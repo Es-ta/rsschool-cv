@@ -1,3 +1,55 @@
 *{
     box-sizing:border-box;
 }
+body{
+font-family: 'Roboto', sans-serif;
+min-height:100vh;
+margin:0;
+padding:0;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+  .container {
+      max-width: 1440px;
+      margin: 0 auto;
+  }
+  .nav-list {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+
+  }
+  html {
+      scroll-behavior: smooth;
+  }
+  .nav-list {
+      list-style: none;
+  }
+  .nav-link {
+      line-height: 50px;
+      text-decoration: none;
+      color:black;
+      transition:.3s;
+  }
+  .nav-link:hover{
+   color:red;
+   font-size: 30px;
+  }
+  .name-item{
+    font-size: 20px;
+    color:darkblue;
+  }
+  h3{
+    font-size: 17px;
+    font-style: italic;
+  }
+  .contacts-item{
+    color:black;
+    text-decoration: none;
+  }
+  .experience-link{
+    color:black;
+    text-decoration: none;
+    
+  }
